@@ -1,5 +1,3 @@
-// TODO: reformat the output to display the prime numbers in a single line 
-// TODO: modify the README to include description, Java version, and sample output
 // TODO: check if line 41 is valid according to the grader's specifications
     
 /*
@@ -17,8 +15,10 @@ import java.util.stream.IntStream;
 
 public class main {
     public static void main(String[] args) {
+        // scanner object to read input
         Scanner io = new Scanner(System.in);
         
+        // prompts user to enter a positive integer greater than 1
         out.print("Enter a positive integer greater than 1: ");
         int N = io.nextInt();
         

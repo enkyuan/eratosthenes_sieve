@@ -19,4 +19,4 @@ java main
 
 ## Sample Output
 
-![sample output screenshot](./screenshot/Screenshot 2024-09-10 at 18.33.00.jpeg)
+![sample output screenshot](./screenshot/sample_output.jpeg)

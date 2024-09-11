@@ -3,8 +3,7 @@
 /*
  * Name:    Enkang Yuan
  * Sect.:   CS 3345.503
- * Desc.:   This program takes an integer N > 1 and prints all prime numbers from 2 to N.
- *
+ * Desc.:   Program takes an integer N > 1 and prints all prime numbers from 2 to N.
  */
 
 // import statements
